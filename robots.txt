@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gedudumugeo.pages.dev/sitemap.xml
